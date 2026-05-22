@@ -1,4 +1,5 @@
-<div align="center">  
+<div align="center"> 
+  <img src="assets/logo.png" alt="MedAccess Logo" width="300" />
   # 🩺 MedAccess
   ### *L'Assistant de Santé & Distributeur Médical Intelligent pour Pharmacies et Cliniques*
   
