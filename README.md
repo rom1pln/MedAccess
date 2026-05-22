@@ -4,7 +4,7 @@
   # 🩺 MedAccess
   ### *L'Assistant de Santé & Distributeur Médical Intelligent pour Pharmacies et Cliniques*
   
-  **🎓 Early Engineering Project (EEP) — 2ème Année | ECE Lyon**
+  **🎓 Early Engineering Project (EEP) - 2ème Année | ECE Lyon**
   
   [![Vite](https://img.shields.io/badge/Vite-624992?style=for-the-badge&logo=vite&logoColor=FFD62B)](https://vite.dev/)
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
