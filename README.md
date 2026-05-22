@@ -4,6 +4,8 @@
   # 🩺 MedAccess
   ### *L'Assistant de Santé & Distributeur Médical Intelligent pour Pharmacies et Cliniques*
   
+  **🎓 Early Engineering Project (EEP) — 2ème Année | ECE Lyon**
+  
   [![Vite](https://img.shields.io/badge/Vite-624992?style=for-the-badge&logo=vite&logoColor=FFD62B)](https://vite.dev/)
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
   [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -20,6 +22,14 @@ Grâce à une interaction multimodale fluide (voix et tactile), MedAccess permet
 <div align="center">
   <img src="assets/kiosk.jpg" alt="Borne MedAccess" width="550" style="border-radius: 24px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);" />
 </div>
+
+---
+
+## 🎓 Contexte du Projet
+
+Ce projet a été conçu et développé dans le cadre du **Early Engineering Project (EEP)** de **deuxième année** au sein de l'**ECE Lyon**.
+
+L'objectif de ce projet est d'explorer et de concevoir des solutions technologiques innovantes pour répondre à des défis sociétaux majeurs. Avec **MedAccess**, nous proposons une solution concrète pour améliorer l'accès aux soins de premier recours dans les territoires sous-médicalisés (déserts médicaux) ou pour assurer une assistance médicale et pharmaceutique continue en dehors des horaires classiques d'ouverture.
 
 ---
 
