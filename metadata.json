@@ -1,0 +1,8 @@
+{
+  "name": "MedAccess",
+  "description": "Un assistant médical intelligent pour pharmacies et cliniques, offrant des conseils de santé, des suggestions de médicaments en vente libre et des recommandations de médecins via une interaction vocale en temps réel.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
