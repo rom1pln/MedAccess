@@ -156,9 +156,6 @@ Pour prévisualiser le build localement :
 npm run preview
 ```
 
-### Déploiement dans Google AI Studio
-Cette application est configurée pour fonctionner de manière transparente avec **Google AI Studio**. Les clés d'API et variables d'environnement nécessaires sont automatiquement injectées lors de l'exécution sur la plateforme.
-
 ---
 
 <div align="center">
